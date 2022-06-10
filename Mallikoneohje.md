@@ -4,3 +4,4 @@
 3 Sysprep:iä voidaan käyttää komentokehotteella tai graafisella työkalulla tietokoneen OOBE (out of box experience) tilaan laitettua eli vasta laatikosta otettuun kuntoon
 4. Vastautiedoston luominen on helmpompaa kuin tyhjästä aloittaminen
 5. Vastaustiedostoa käytetään audit tilassa mallityöasemaa asennettaessa
+![WSIM kuva](WSIM)
